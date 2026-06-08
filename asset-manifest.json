@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/thivy-portfolio/static/css/main.2eeff031.css",
-    "main.js": "/thivy-portfolio/static/js/main.9c0f8bd2.js",
+    "main.js": "/thivy-portfolio/static/js/main.de5df97f.js",
     "static/media/thivy-about.jpg": "/thivy-portfolio/static/media/thivy-about.f7524a4e5653fc7ac18a.jpg",
     "static/media/thivy-hero.jpg": "/thivy-portfolio/static/media/thivy-hero.a817bc490a9d8cd9375d.jpg",
     "index.html": "/thivy-portfolio/index.html",
     "main.2eeff031.css.map": "/thivy-portfolio/static/css/main.2eeff031.css.map",
-    "main.9c0f8bd2.js.map": "/thivy-portfolio/static/js/main.9c0f8bd2.js.map"
+    "main.de5df97f.js.map": "/thivy-portfolio/static/js/main.de5df97f.js.map"
   },
   "entrypoints": [
     "static/css/main.2eeff031.css",
-    "static/js/main.9c0f8bd2.js"
+    "static/js/main.de5df97f.js"
   ]
 }
